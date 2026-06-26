@@ -1,16 +1,12 @@
 # Kingdon Teadome
 
-In the [Kingdon Teahouse](https://tbuli.github.io/teahouse/) you can try the 
+The [Kingdon Teahouse](https://tbuli.github.io/teahouse/) let's you try the 
 [kingdon](https://github.com/tBuLi/kingdon) geometric algebra library directly in the browser.
 The teahouse offers a carefully catered selection of exquisite kingdon samples to help 
 you get started with [Geometric Algebra](https://bivector.net/).
-And yes, ganja.js usage is tolerated in kingdon's teahouse.
 
-## ✨ Try it in your browser ✨
-
-➡️ **https://tbuli.github.io/teahouse/**
-
-## Further Information
+This is NOT the teahouse.  Instead, this is a test ground for Kingdon PGA examples.  Your milage
+may vary, although since we started with the Teahouse, those examples should work fine.
 
 For more information on `kingdon` and `ganja.js`, check out these resources:
 
