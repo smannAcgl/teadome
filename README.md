@@ -1,4 +1,4 @@
-# Kingdon Teahouse
+# Kingdon Teadome
 
 In the [Kingdon Teahouse](https://tbuli.github.io/teahouse/) you can try the 
 [kingdon](https://github.com/tBuLi/kingdon) geometric algebra library directly in the browser.
